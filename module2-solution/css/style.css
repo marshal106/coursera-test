@@ -3,14 +3,14 @@
   margin:0;
   padding: 0;
   box-sizing: border-box;
+  font-family: cursive;
 }
 
 h1 {
   margin: 20px 0px 40px 0px;
   text-align: center;
-  font-family: sans-serif;
   font-size: 250%;
-  color: rgb(56, 56, 148);
+  color: black;
 }
 
 .row {
@@ -28,7 +28,6 @@ h1 {
 .detail{
   padding: 5%;
   clear: right;
-  font-family: sans-serif;
   color: rgb(0, 0, 102);
 }
 
@@ -40,7 +39,6 @@ h1 {
   text-align: center;
   position: relative;
   float: right;
-  font-family: sans-serif;
   font-size: 125%;
 }
 
